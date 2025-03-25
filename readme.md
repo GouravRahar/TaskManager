@@ -106,5 +106,3 @@ You can now access your project at [http://127.0.0.1:8000/](http://127.0.0.1:800
   [POSTMAN](https://www.postman.com/imdb-project/workspace/taskmanager/collection/12167432-4785165e-abda-4630-86f7-30cebb9756ae?action=share&creator=12167432) link
 
 ---
-
-Happy Coding! 🚀
